@@ -3,7 +3,7 @@ import { Chip } from "components";
 import style from './Skills.module.scss';
 
 const common = ['javascript', 'typescript'];
-const frontend = ['react', 'recoil', 'mobx'];
+const frontend = ['react', 'react-native', 'recoil', 'mobx'];
 const backend = ['nest.js', 'postgresql', 'typeorm'];
 const languages = ['english', 'russian'];
 const other = ['docker'];
