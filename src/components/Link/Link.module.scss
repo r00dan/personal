@@ -1,0 +1,15 @@
+@import '../../assets/variables';
+
+.root {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: $primary;
+  text-decoration: none;
+}
+
+.icon {
+  margin-right: 0.25rem;
+  font-size: 1.2rem;
+}
