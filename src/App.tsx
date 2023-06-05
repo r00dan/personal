@@ -1,4 +1,4 @@
-import { Avatar, Bio, Experience, Skills, Socials, Divider } from 'components';
+import { Avatar, Bio, Skills, Socials, Divider } from 'components';
 
 import style from './App.module.scss';
 
@@ -13,8 +13,6 @@ export function App() {
       <Bio />
       <Divider />
       <Skills />
-      {/* <Divider />
-      <Experience /> */}
     </div>
   )
 }
