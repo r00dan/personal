@@ -6,7 +6,7 @@ export function App() {
   return (
     <div className={style.root}>
       <h1>Bogdan Rudenko</h1>
-      <h3>Middle Full-stack developer</h3>
+      <h3>Full-stack web developer</h3>
       <Avatar />
       <Socials />
       <Divider />
