@@ -3,7 +3,7 @@ import { Avatar } from 'antd';
 export function Component() {
   return (
     <Avatar
-      src={'/avatar.png'}
+      src={'/avatar.jpg'}
       size={300}
     />
   )

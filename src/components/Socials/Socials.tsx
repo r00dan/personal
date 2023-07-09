@@ -6,6 +6,9 @@ import {
   TbBrandLinkedin,
   TbBrandDiscord,
 } from 'react-icons/tb';
+
+import { MdWorkOutline } from 'react-icons/md';
+
 import { HiOutlineMail } from 'react-icons/hi';
 
 import { Link } from "components";
@@ -47,6 +50,11 @@ const links = [
     label: 'Email',
     value: 'mailto:lurkingbo@gmail.com',
     icon: <HiOutlineMail />,
+  },
+  {
+    label: 'CV',
+    value: '/cv.pdf',
+    icon: <MdWorkOutline />,
   },
 ];
 
