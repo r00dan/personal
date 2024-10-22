@@ -17,43 +17,43 @@ import style from './Socials.module.scss';
 
 const links = [
   {
-    label: 'Linkedin',
-    value: 'https://www.linkedin.com/in/lurkingbo',
-    icon: <TbBrandLinkedin />
+    label: "Linkedin",
+    value: "https://www.linkedin.com/in/rudenko-bogdan/",
+    icon: <TbBrandLinkedin />,
   },
   {
-    label: 'Github',
-    value: 'https://github.com/r00dan',
-    icon: <TbBrandGithub />
+    label: "Github",
+    value: "https://github.com/r00dan",
+    icon: <TbBrandGithub />,
   },
   {
-    label: 'Discord',
-    value: 'https://discordapp.com/users/294108445190389770',
-    icon: <TbBrandDiscord />
+    label: "Discord",
+    value: "https://discordapp.com/users/294108445190389770",
+    icon: <TbBrandDiscord />,
   },
   {
-    label: 'Twitter',
-    value: 'https://twitter.com/hotcodepink',
-    icon: <TbBrandTwitter />
+    label: "Twitter",
+    value: "https://twitter.com/hotcodepink",
+    icon: <TbBrandTwitter />,
   },
   {
-    label: 'Facebook',
-    value: 'https://facebook.com/roodan.dev/',
-    icon: <TbBrandFacebook />
+    label: "Facebook",
+    value: "https://facebook.com/roodan.dev/",
+    icon: <TbBrandFacebook />,
   },
   {
-    label: 'Telegram',
-    value: 'https://t.me/lurkingbo',
-    icon: <TbBrandTelegram />
+    label: "Telegram",
+    value: "https://t.me/lurkingbo",
+    icon: <TbBrandTelegram />,
   },
   {
-    label: 'Email',
-    value: 'mailto:lurkingbo@gmail.com',
+    label: "Email",
+    value: "mailto:lurkingbo@gmail.com",
     icon: <HiOutlineMail />,
   },
   {
-    label: 'CV',
-    value: '/cv.pdf',
+    label: "CV",
+    value: "/cv.pdf",
     icon: <MdWorkOutline />,
   },
 ];
